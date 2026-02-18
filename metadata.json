@@ -1,0 +1,7 @@
+{
+  "name": "HostelWise Pro",
+  "description": "A comprehensive digital platform for automated hostel room allocation, maintenance tracking, and predictive operational analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
